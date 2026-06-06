@@ -19,13 +19,13 @@ A lightweight, real-time 2D physics engine that renders directly in your termina
 
 ### Build & Run
 
-1. Clone the repository:
+## 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ascii_physics_engine.git](https://github.com/YOUR_USERNAME/ascii_physics_engine.git)
    cd ascii_physics_engine
 ```
 
-2.Create a build directory and configure:
+## 2.Create a build directory and configure:
 
 ```bash
 mkdir build && cd build
