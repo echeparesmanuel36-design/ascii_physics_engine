@@ -38,5 +38,11 @@ cmake --build
 
 ## Run the engine:
 
-​Linux/Mac: ./ascii_physics
-​Windows: ascii_physics.exe
+​Linux/Mac: 
+```bash
+./ascii_physics
+```
+​Windows: 
+```bash
+ascii_physics.exe
+```
