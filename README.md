@@ -46,3 +46,13 @@ cmake --build
 ```bash
 ascii_physics.exe
 ```
+
+## 🛠️ How it Works
+1.​Update: Calculates new positions and velocities based on gravity and delta time (dt).
+
+2.​Resolve: Checks if particles collide with the screen edges and calculates the bounce using a friction coefficient.
+
+3.​Render: Draws the current state of all particles into a screen buffer (a vector of strings) and prints it to the terminal.
+
+​📄 License
+​This project is open-source and free to use under the MIT License.
