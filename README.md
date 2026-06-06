@@ -35,3 +35,8 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 ```bash
 cmake --build
 ```
+
+## Run the engine:
+
+​Linux/Mac: ./ascii_physics
+​Windows: ascii_physics.exe
