@@ -54,5 +54,5 @@ ascii_physics.exe
 
 3.​Render: Draws the current state of all particles into a screen buffer (a vector of strings) and prints it to the terminal.
 
-​📄 License
+### ​📄 License
 ​This project is open-source and free to use under the MIT License.
