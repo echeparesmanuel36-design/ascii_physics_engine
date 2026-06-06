@@ -36,7 +36,7 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 cmake --build
 ```
 
-## Run the engine:
+### Run the engine:
 
 ​Linux/Mac: 
 ```bash
