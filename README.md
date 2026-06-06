@@ -24,7 +24,9 @@ A lightweight, real-time 2D physics engine that renders directly in your termina
    git clone [https://github.com/YOUR_USERNAME/ascii_physics_engine.git](https://github.com/YOUR_USERNAME/ascii_physics_engine.git)
    cd ascii_physics_engine
 ```
+
 2.Create a build directory and configure:
+
 ```bash
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
