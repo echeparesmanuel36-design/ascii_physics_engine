@@ -29,3 +29,7 @@ A lightweight, real-time 2D physics engine that renders directly in your termina
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 ```
+3.Build the project:
+```bash
+cmake --build
+```
